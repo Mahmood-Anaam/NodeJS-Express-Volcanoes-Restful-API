@@ -33,7 +33,7 @@ Volcanoes RESTful API is a robust service designed to manage and analyze data ab
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/volcanoes-restful-api.git
+   https://github.com/Mahmood-Anaam/volcanoes-restful-api.git
    cd volcanoes-restful-api
    ```
 
