@@ -111,10 +111,6 @@ Swagger documentation is available at the root URL of the API. Visit `https://vo
 The application is deployed on Render and can be accessed at:
 [https://nodejs-express-volcanoes-restful-api.onrender.com/](https://nodejs-express-volcanoes-restful-api.onrender.com/)
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
 ## Acknowledgements
 
 The volcanoes dataset is provided by the Smithsonian Institution's Global Volcanism Program. Visit [volcano.si.edu](https://volcano.si.edu/) for more information.
