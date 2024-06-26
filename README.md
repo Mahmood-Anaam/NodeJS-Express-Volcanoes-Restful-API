@@ -33,8 +33,8 @@ Volcanoes RESTful API is a robust service designed to manage and analyze data ab
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mahmood-Anaam/volcanoes-restful-api.git
-   cd volcanoes-restful-api
+   git clone https://github.com/Mahmood-Anaam/NodeJS-Express-Volcanoes-Restful-API.git
+   cd NodeJS-Express-Volcanoes-Restful-API
    ```
 
 2. **Install dependencies:**
@@ -109,7 +109,7 @@ Swagger documentation is available at the root URL of the API. Visit `https://vo
 ## Deployment
 
 The application is deployed on Render and can be accessed at:
-[https://volcanoes-restful-api.onrender.com/](https://volcanoes-restful-api.onrender.com/)
+[https://nodejs-express-volcanoes-restful-api.onrender.com/](https://nodejs-express-volcanoes-restful-api.onrender.com/)
 
 ## Contributing
 
